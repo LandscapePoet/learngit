@@ -11,3 +11,5 @@ Add merge.
 add for brancn test1.
 
 Use git stash for branch master.
+
+from dir test/learngit
