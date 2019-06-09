@@ -12,4 +12,4 @@ add for brancn test1.
 
 Use git stash for branch master.
 
-modify readme outside test dir.
+fix readme conflict created by different users.
