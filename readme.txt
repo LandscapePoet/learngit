@@ -9,3 +9,5 @@ Creating a new branch is quick and simple.
 Add merge.
 
 add for brancn test1.
+
+Use git stash for branch master.
